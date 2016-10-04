@@ -1,0 +1,11 @@
+1)
+
+ajouter et recupérer liste des utlisateurs : http://localhost/api/web/app_dev.php/users
+
+récupérer et modifier un utilisateur : http://localhost/api/web/app_dev.php/user/{id}
+
+2)
+
+ajouter un groupe : http://localhost/api/web/app_dev.php/groups
+
+Récupérer et modifier un group : http://localhost/api/web/app_dev.php/groups/{id}
